@@ -38,3 +38,7 @@ A simple TODO list application built using React and Redux. Users can add tasks,
 2. Enter a task in the input field and click "Add" to add a new task.
 3. Click on the task to mark it as complete.
 4. Click the Delete icon (X) button next to a task to remove it from the list.
+
+## View the Project
+
+You can view the deployed TODO list application by clicking [here](https://todo-list-react-redux-isbu.vercel.app/).
